@@ -1,0 +1,16 @@
+body {
+    background-color: #1e1e1e;
+    color: #1e1e1e;
+    font-family: pp;
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.35;
+    }
+    body, html {
+        height: 100%;
+        overflow: hidden;
+        }
+        body, html {
+            overscroll-behavior: none;
+            width: 100%;
+            }
